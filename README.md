@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to predict the salary of employees based on their years of experience using supervised machine learning techniques. Two regression models, Linear Regression and Decision Tree Regression, are implemented and compared.
 
+<img src="download.png" alt="overview salary Prediciton">
+
 ---
 
 ## Dataset Information
